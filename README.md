@@ -10,9 +10,9 @@ This is a simple HTML page with minimal styling that displays a "hello world!" m
 
 To view the website, you can:
 1. Clone this repository
-2. Open the `hello-world.html` file in your browser
+2. Open the `index.html` file in your browser
 
-Or visit the GitHub Pages site (if enabled).
+Or visit the GitHub Pages site at: https://p-lamiche.github.io/hello-world-website/
 
 ## Repository
 
